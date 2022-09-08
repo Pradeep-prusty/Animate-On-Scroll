@@ -1,1 +1,1 @@
-# Animate-On-Scroll
+# Animate On Scroll
