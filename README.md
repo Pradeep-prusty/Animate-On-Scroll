@@ -9,7 +9,6 @@ Add styles in `<head>`:
 ```html
   <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
 ```
-
 Add script right before closing `</body>` tag, and initialize AOS:
 ```html
   <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
