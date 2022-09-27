@@ -37,7 +37,7 @@ If you're using [Parcel](https://parceljs.org/) however, it will work out of the
 
 ## 🤔 How to use it?
 
-###1. Initialize AOS:
+### 1. Initialize AOS:
 
 ```js
 AOS.init();
